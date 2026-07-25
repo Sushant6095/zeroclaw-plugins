@@ -1,0 +1,21 @@
+crates/kiosk-core/src/lib.rs
+  s_a9bbd3243eca8d::t_146500ebb09b5e 16
+crates/kiosk-core/src/chain.rs
+  s_a9bbd3243eca8d::t_836ad688cd0af2 1-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "2565896ab5a5fc9c99a6b19113e65e99b1f4e709",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
