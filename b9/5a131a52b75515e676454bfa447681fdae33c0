@@ -1,0 +1,23 @@
+plugins/kiosk-attest/src/lib.rs
+  s_a9bbd3243eca8d::t_947abe21017997 78-80
+plugins/kiosk-watch/src/lib.rs
+  s_a9bbd3243eca8d::t_39ac5d964dad4c 79-81
+plugins/kiosk-charge/src/lib.rs
+  s_a9bbd3243eca8d::t_f8d8c520715ab7 69-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "b95a131a52b75515e676454bfa447681fdae33c0",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
