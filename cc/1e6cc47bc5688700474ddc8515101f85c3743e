@@ -1,0 +1,37 @@
+crates/kiosk-core/src/pay.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 116-118,134-136,184-192,205-210,228,232,236,244-252
+plugins/kiosk-attest/src/lib.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 107-111,116-120,127-131,153-157,163-167,170-174,184-191,206-210
+crates/kiosk-core/src/b64.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 18-27
+crates/kiosk-core/src/chain.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 63-65,69-74,97-100,120-122,127-139,149-154,162-167,174-179,186-191,198-203
+crates/kiosk-core/src/msg.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 56-60,160-164,192-196,208-227
+plugins/kiosk-charge/src/lib.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 101-105,112-116,130-134,144-153,156-160,208-212
+crates/kiosk-core/src/nonce.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 49-52,66-80,137-140
+crates/kiosk-core/src/b58.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 74-81
+plugins/kiosk-charge/src/charge.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 73-75,94-97,103-105,162,203-209
+crates/kiosk-core/src/rpc.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 97-98,112-114,146,165-168,208-218,223-226,228-231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "cc1e6cc47bc5688700474ddc8515101f85c3743e",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
