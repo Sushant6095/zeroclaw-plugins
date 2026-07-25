@@ -1,0 +1,35 @@
+plugins/kiosk-watch/src/watch.rs
+  s_a9bbd3243eca8d::t_3577bf98a18ded 303
+  s_a9bbd3243eca8d::t_fee3ca152923b7 269,276
+  s_a9bbd3243eca8d::t_02e70ce9738b12 300-302,304-306
+  s_a9bbd3243eca8d::t_36cb5acf4561f6 1-78,80-111,113-251,253-268,270-275,277-287,289-299,307-329,331-350,352-468
+  s_a9bbd3243eca8d::t_f0aa546255c057 79,112,252,288,330,351
+plugins/kiosk-watch/manifest.toml
+  s_a9bbd3243eca8d::t_74ea692b3c632b 1-11
+plugins/kiosk-watch/src/lib.rs
+  s_a9bbd3243eca8d::t_596361017c6a00 1-126,128-138,140-149,151-196,198-201,203-215,217-220,222-230,232-262,264-282
+  s_a9bbd3243eca8d::t_e727520f219439 127,139,150,197,202,216,221,231,263
+plugins/kiosk-watch/Cargo.toml
+  s_a9bbd3243eca8d::t_260e0cbc933123 1-33
+plugins/kiosk-watch/tests/watch.rs
+  s_a9bbd3243eca8d::t_6419ff53b50627 1-35,37-118,120-125,127-146,148-156,158-176,178-190,193-203,205-214,216,218-268,270-327
+  s_a9bbd3243eca8d::t_a42e8083c6920a 36,119,126,147,157,177,191-192,204,215,217,269
+plugins/kiosk-watch/Cargo.lock
+  s_a9bbd3243eca8d::t_1d50a3c9a218d1 1-723
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "8d66d80463cbd76d3759db102f7c66c28731d4d1",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
