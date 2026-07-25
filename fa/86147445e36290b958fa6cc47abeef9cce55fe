@@ -1,0 +1,23 @@
+plugins/kiosk-watch/tests/watch.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 134-141,151-154,160-161,163-166,175-178,182-186,196-200,209-212
+plugins/kiosk-attest/tests/attest.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 27-32,285-288,302-305,317-326
+plugins/kiosk-charge/tests/charge.rs
+  s_a9bbd3243eca8d::t_867c8a40150b04 16-19,35-38,44-46,65-68,89-92,98-102,106-109,115-118,124-127,150-152,160-163,176-179,185-188,198-201,229-230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "fa86147445e36290b958fa6cc47abeef9cce55fe",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
