@@ -1,0 +1,19 @@
+crates/kiosk-core/tests/fuzz.rs
+  s_a9bbd3243eca8d::t_16abf31cbfbca6 1-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "ee527719fcd6f38bbdd4709b1b7996aa11dd565e",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
