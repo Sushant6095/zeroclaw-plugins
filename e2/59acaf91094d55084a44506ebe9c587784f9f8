@@ -1,0 +1,22 @@
+plugins/kiosk-attest/tests/attest.rs
+  s_a9bbd3243eca8d::t_0aa3e3bde022c6 22-28,33,36
+  s_a9bbd3243eca8d::t_f2399272a0af0e 61,67
+  s_a9bbd3243eca8d::t_30d82e479891f8 269,274-284
+  s_a9bbd3243eca8d::t_8d69308698b00e 285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "e259acaf91094d55084a44506ebe9c587784f9f8",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
