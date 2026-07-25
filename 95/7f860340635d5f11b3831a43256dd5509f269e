@@ -1,0 +1,24 @@
+plugins/kiosk-charge/src/charge.rs
+  s_a9bbd3243eca8d::t_33be722165fcc8 183-192,195
+  s_a9bbd3243eca8d::t_fea776fce84b62 92-101,108-109
+  s_a9bbd3243eca8d::t_7855ea60fc8cad 27-33
+plugins/kiosk-charge/tests/charge.rs
+  s_a9bbd3243eca8d::t_23dfcdaecddc0c 67-96
+  s_a9bbd3243eca8d::t_a3f5da2f7f53d9 66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "957f860340635d5f11b3831a43256dd5509f269e",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
