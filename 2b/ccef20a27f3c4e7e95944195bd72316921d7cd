@@ -1,0 +1,24 @@
+skills/kiosk-qr/SKILL.md
+  s_a9bbd3243eca8d::t_3f099be137e591 23,25
+  s_a9bbd3243eca8d::t_257946c863c35f 1-15,19-22,24,26-40
+  s_a9bbd3243eca8d::t_3395618db701e2 16-18
+skills/kiosk-qr/render-qr.sh
+  s_a9bbd3243eca8d::t_e5c50b1ecc2c24 26-29
+  s_a9bbd3243eca8d::t_2dbde06e75ee4d 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "2bccef20a27f3c4e7e95944195bd72316921d7cd",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
