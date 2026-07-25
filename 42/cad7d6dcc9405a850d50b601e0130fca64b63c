@@ -1,0 +1,33 @@
+plugins/kiosk-attest/src/lib.rs
+  s_a9bbd3243eca8d::t_87e3a9b03c5655 6,9
+  s_a9bbd3243eca8d::t_06ff1fdda3bd30 1-5,7-8,10-11
+plugins/kiosk-attest/tests/attest.rs
+  s_a9bbd3243eca8d::t_b7d930ac614ebe 8,47-49,52-55,61-64,82-87,96-99,105-108,123-126,139-142,149-157,188-194,213-218,228-235,241-243,255-261,266-271
+  s_a9bbd3243eca8d::t_b9ee9f3ac87265 1-7,9-46,50-51,56-60,65-81,88-95,100-104,109-122,127-138,143-148,158-187,195-212,219-227,236-240,244-254,262-265,272-273
+plugins/kiosk-attest/src/attest.rs
+  s_a9bbd3243eca8d::t_b7d930ac614ebe 46-48,51-53,60-62,64-69,81-88,175-177,182-184,186-189,214-219,224-227,238-240,244-245,273-278
+  s_a9bbd3243eca8d::t_494b0b7f5b6220 1-45,49-50,54-59,63,70-80,89-128,130-174,178-181,185,190-213,220-223,228-237,241-243,246-272,279-287
+  s_a9bbd3243eca8d::t_b59c46e2835188 129
+plugins/kiosk-attest/Cargo.toml
+  s_a9bbd3243eca8d::t_c51abe44b7fbbf 1-28
+plugins/kiosk-attest/manifest.toml
+  s_a9bbd3243eca8d::t_675b755b8dbed9 1-11
+plugins/kiosk-attest/Cargo.lock
+  s_a9bbd3243eca8d::t_b1b96d96ba8b12 1-723
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "42cad7d6dcc9405a850d50b601e0130fca64b63c",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
