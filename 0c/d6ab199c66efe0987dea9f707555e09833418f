@@ -1,0 +1,29 @@
+sops/payment-loop/SOP.toml
+  s_a9bbd3243eca8d::t_ed92d5a1d6280c 1-34
+sops/heartbeat/SOP.md
+  s_a9bbd3243eca8d::t_78095937915cc2 1-36
+sops/sensor-loop/SOP.toml
+  s_a9bbd3243eca8d::t_cf51a826360987 1-30
+sops/heartbeat/SOP.toml
+  s_a9bbd3243eca8d::t_25849f2078b5d3 1-32
+sops/payment-loop/SOP.md
+  s_a9bbd3243eca8d::t_e1a10a516d004e 1-44
+sops/sensor-loop/SOP.md
+  s_a9bbd3243eca8d::t_0fe5a2851617bb 1-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "0cd6ab199c66efe0987dea9f707555e09833418f",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
