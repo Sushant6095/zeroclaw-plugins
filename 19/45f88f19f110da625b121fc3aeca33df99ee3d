@@ -1,0 +1,20 @@
+scripts/devnet-setup.sh
+  s_a9bbd3243eca8d::t_f24084d51c6f7b 93
+  s_a9bbd3243eca8d::t_1efacb607b9f5f 1-92,94-111
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "1945f88f19f110da625b121fc3aeca33df99ee3d",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
