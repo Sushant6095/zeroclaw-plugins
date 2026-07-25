@@ -1,0 +1,19 @@
+plugins/kiosk-attest/src/lib.rs
+  s_a9bbd3243eca8d::t_be95c298f93439 6-7,10-13,16-191
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "5d97656ce824807229ed1bb2993ef8890840a87f",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
