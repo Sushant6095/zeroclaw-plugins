@@ -1,0 +1,24 @@
+plugins/kiosk-charge/README.md
+  s_a9bbd3243eca8d::t_9eb3e54b629b37 13-18
+PROOFKIOSK.md
+  s_a9bbd3243eca8d::t_b75a479b13b03f 3-4,9-13
+  s_a9bbd3243eca8d::t_5b10c1dc38398e 22-33
+  s_a9bbd3243eca8d::t_94bd026af27925 78-107
+  s_a9bbd3243eca8d::t_2f2c57e87d792a 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "7afe213f6790296197312fae92e7d94f95faf42d",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
