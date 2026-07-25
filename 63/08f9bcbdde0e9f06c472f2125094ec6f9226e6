@@ -1,0 +1,23 @@
+crates/kiosk-core/Cargo.toml
+  s_a9bbd3243eca8d::t_b1c50e6d2181fb 24-27
+crates/kiosk-core/tests/props.rs
+  s_a9bbd3243eca8d::t_77f6727aece08b 1-46
+crates/kiosk-core/Cargo.lock
+  s_a9bbd3243eca8d::t_d6740284aaf76c 23-43,68-89,99-121,181,192-203,216-224,237-245,265-289,299-379,465-483,502-510,522,536-544,584-598,609-614
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6308f9bcbdde0e9f06c472f2125094ec6f9226e6",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
