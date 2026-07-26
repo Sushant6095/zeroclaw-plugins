@@ -1,0 +1,19 @@
+plugins/kiosk-charge/Cargo.lock
+  s_a9bbd3243eca8d::t_eaba9551ff8a5a 175-177
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "54e27a589cba45c88e65b82d93f042a5840270f5",
+  "prompts": {},
+  "sessions": {
+    "s_a9bbd3243eca8d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "77c586d5-fd58-4f87-960f-4d348db99dbc",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Sushant6095 <sj317772@gmail.com>"
+    }
+  }
+}
